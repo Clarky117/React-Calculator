@@ -49,7 +49,7 @@ body {
   font-size: 1.5rem;
 }
 
-.output .previous-op {
+.output .current-op {
   color: white;
   font-size: 2.5rem;
 }
